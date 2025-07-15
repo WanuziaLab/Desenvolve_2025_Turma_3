@@ -1,5 +1,5 @@
 const hasText = true;
-const text = "Mentoria Desenvolve | 2023 | Turma 13 ";
+const text = "Mentoria Desenvolve | 2025 | Turma 3 Desenvolvimento de Software";
 const lettersArray = text.split("");
 let interval;
 

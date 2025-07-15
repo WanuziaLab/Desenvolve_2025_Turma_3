@@ -4,14 +4,6 @@
         "text": "Agende com a mentoria",
         "link":"pages/mentoria.html"
       },
-  {
-        "text": "Board da Turma 13",
-        "link": "https://miro.com/app/board/uXjVPszXvBw=/"
-      },
-      {
-        "text": "Figma do site",
-        "link": "https://www.figma.com/file/T78yJg2J1EW0czgdFFmPc9/Mentoria-Desenvolve-2023?node-id=1%3A709&t=mw68uNFiDXlfEuXQ-1"
-      },
    {
         "text": "Gravações dos encontros",
         "link": "pages/meetings.html"
@@ -19,57 +11,26 @@
         ],
   
     "videos": [{
-    "text": "Git e Github",
-    "link": "https://drive.google.com/file/d/1b3Lsug176_wJqNPAWGriP8FLa_Cp0BAv/view"
-    },
-    {
-    "text": "Carreira em Tech",
-    "link": "https://drive.google.com/file/d/1w3p7Ya_WhWeThJjdJdVhsw2Di1dDIv5l/view"
-    },
-   { 
-    "text": "Desafio Linha de Comando",
-    "link": "https://drive.google.com/file/d/1E-jS109dvouqFhMMFzrNQSNDhhcRxoXR/view?usp=sharing"
-  },
-  {
-    "text": "Linkedin",
-    "link": "https://drive.google.com/file/d/1L2hOfeffUtUf3237pX_wkIqpjUi_arWJ/view?usp=sharing"
-  },
-  {
-    "text": "Javascript - var, let e const",
-    "link": "https://drive.google.com/file/d/1ltcBmSLGvPbG0FI9f4UVixHzJFVgcQjJ/view?usp=share_link"
-  },
-  {
-    "text": "Promises, try/catch, async/await",
-    "link": "https://drive.google.com/file/d/1yE2QLpBtWqpbjJOuqDg4SyKLxs1ApY3K/view?usp=sharing"
-  },
-  {
-    "text": "Métodos de array",
-    "link": "https://drive.google.com/file/d/1ETRkhDE_-uY_HC2dMwyIE9G0ZNHT5dBu/view?usp=sharing"
-  },
-  {
-    "text": "Testes",
-    "link": "https://drive.google.com/file/d/1Be2iFp5iMgpedCVTQmqbHD-9DpIp7JQZ/view?usp=sharing"
-  }
-  ],
+    "text": "Primero encontro - Apresentação e combinados",
+    "link": "https://drive.google.com/file/d/1tjyApeXsnuj1OT7Da4VNp9BZmq2mgF1n/view?usp=drive_link"
+    }
+    ],
   
     "mentors": [
     {
-    "image": "https://res.cloudinary.com/drz2mebia/image/upload/v1678655924/mentoria-desenvolve/jess_mentora_xnbift.jpg",
-    "name": "Jéssica Tavares",
-    "description": "Carreira",
-    "url": "https://calendar.app.google/oYtcxPWrkSmEi8AL6"
+    "image": "https://ca.slack-edge.com/ENP7P22D6-U048H0VEZHR-ddeb431d00b7-512",
+    "name": "Gustavo Pistore",
+    "url": ""
     },
     {
-    "image": "https://res.cloudinary.com/drz2mebia/image/upload/v1678655920/mentoria-desenvolve/sicuto-mentor_ywqpee.jpg",
-    "name": "Gabriel Sicuto",
-    "description": "Especialista",
-    "url": "https://calendar.app.google/VpwdmPe7bNSHDgQg8"
+    "image": "https://ca.slack-edge.com/ENP7P22D6-U03326RFHH9-0cb672e16a3b-512",
+    "name": "Samuca Ramos",
+    "url": ""
     },
     {
-    "image": "https://res.cloudinary.com/drz2mebia/image/upload/v1678655918/mentoria-desenvolve/wanuzia-mentor_gjj3xa.jpg",
+    "image": "https://ca.slack-edge.com/ENP7P22D6-U03D72W581Y-188b5683f6d6-512",
     "name": "Wanuzia Braga",
-    "description": "Técnico",
-    "url": "https://calendar.app.google/4AfqysCPFuAYGEcL7"
+    "url": "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NnRhZWc5cDV0MXVtc3N1ZzQ4Zzg5YWRnZmVfMjAyNTA3MTVUMDMwMDAwWiB3YW51emlhLmJyYWdhQGdydXBvYm90aWNhcmlvLmNvbS5icg&tmsrc=wanuzia.braga%40grupoboticario.com.br&scp=ALL"
     }
     ]
   }
